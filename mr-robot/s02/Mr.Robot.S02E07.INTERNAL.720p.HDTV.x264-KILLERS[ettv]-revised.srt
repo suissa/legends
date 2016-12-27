@@ -132,7 +132,7 @@ Tyrell aqui é a nossa nova estrela jovem subindo
 
 34
 00:01:51,265 --> 00:01:52,664
-com um olho na posicao CTO.
+com um olho na posição CTO.
 
 35
 00:01:52,699 --> 00:01:54,066
@@ -1193,7 +1193,7 @@ Caminho de volta quando,
 
 299
 00:20:03,795 --> 00:20:05,762
-quando eu disse que era cerca de tropeco,
+quando eu disse que era cerca de tropeço,
 
 300
 00:20:05,797 --> 00:20:07,764
@@ -1201,7 +1201,7 @@ Eu estava errado.
 
 301
 00:20:14,105 --> 00:20:18,074
-Eu deveria ter tomado uma posicao porra.
+Eu deveria ter tomado uma posição porra.
 
 302
 00:20:26,117 --> 00:20:29,285
@@ -1801,7 +1801,7 @@ era que eu poderia fazer alteracões a partir de dentro.
 
 451
 00:30:17,135 --> 00:30:18,934
-Eu quero a minha posicao mudou
+Eu quero a minha posição mudou
 
 452
 00:30:18,970 --> 00:30:20,836
@@ -1809,7 +1809,7 @@ para o Departamento de Gestão de Risco.
 
 453
 00:30:20,872 --> 00:30:22,838
-Há uma posicao de gerente disponíveis.
+Há uma posição de gerente disponíveis.
 
 454
 00:30:22,874 --> 00:30:24,741
