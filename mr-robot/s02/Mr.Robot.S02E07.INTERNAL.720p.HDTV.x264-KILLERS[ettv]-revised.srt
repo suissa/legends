@@ -213,7 +213,7 @@ de ligacao com um servidor.
 
 54
 00:03:10,845 --> 00:03:13,312
-Tudo depende de que primeiro aperto de mão
+Tudo depende do primeiro aperto de mão
 
 55
 00:03:13,347 --> 00:03:15,314
