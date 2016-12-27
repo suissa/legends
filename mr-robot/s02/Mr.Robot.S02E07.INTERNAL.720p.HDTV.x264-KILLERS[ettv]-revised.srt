@@ -209,7 +209,7 @@ Não é diferente do que um cliente
 
 53
 00:03:08,442 --> 00:03:10,809
-de ligacao com um servidor.
+de ligação com um servidor.
 
 54
 00:03:10,845 --> 00:03:13,312
@@ -293,7 +293,7 @@ Por que você ainda me importo?
 
 74
 00:04:19,613 --> 00:04:23,581
-Eu não quero estar em negacao mais.
+Eu não quero estar em negação mais.
 
 75
 00:04:23,617 --> 00:04:27,619
@@ -345,7 +345,7 @@ Nós cooptados um de seus andares.
 
 87
 00:05:19,406 --> 00:05:21,206
-Eu estava indo para a minha estacao quando
+Eu estava indo para a minha estação quando
 
 88
 00:05:21,241 --> 00:05:23,075
@@ -473,7 +473,7 @@ Para que?
 
 119
 00:06:44,158 --> 00:06:47,659
-Apenas para obter uma declaracao, responder a algumas perguntas, não é grande.
+Apenas para obter uma declaração, responder a algumas perguntas, não é grande.
 
 120
 00:06:47,694 --> 00:06:49,827
@@ -617,7 +617,7 @@ Você sabe que não pode acontecer.
 
 155
 00:09:40,267 --> 00:09:42,500
-Eu pensei que esta foi a nossa celebracao.
+Eu pensei que esta foi a nossa celebração.
 
 156
 00:09:42,536 --> 00:09:44,902
@@ -1001,7 +1001,7 @@ para fazer isso.
 
 251
 00:17:10,308 --> 00:17:15,802
-CONVOCAcaO para o divórcio
+CONVOCAÇÃO para o divórcio
 
 252
 00:17:17,028 --> 00:17:18,128
@@ -1589,7 +1589,7 @@ Metade deles querem mata-lo.
 
 398
 00:26:58,909 --> 00:27:03,244
-Outra metade só quero torcer seu merda.
+A outra metade só quer torcer seu merda.
 
 399
 00:27:04,547 --> 00:27:06,114
@@ -1617,7 +1617,7 @@ O que é isso?
 
 405
 00:27:23,566 --> 00:27:25,200
-não ouvi-lo.
+não ouvi-o.
 
 406
 00:27:25,235 --> 00:27:27,068
@@ -1645,7 +1645,7 @@ Ele está bem onde ele está.
 
 412
 00:27:53,489 --> 00:27:55,055
-site da Ray.
+site do Ray.
 
 413
 00:27:55,091 --> 00:27:57,624
@@ -1657,7 +1657,7 @@ Agora, de repente, eu não tenho acesso.
 
 415
 00:28:00,507 --> 00:28:03,709
-não pode sequer fazer causa novos vendas do site para baixo.
+não pode sequer fazer novas vendas no site derrubado.
 
 416
 00:28:05,272 --> 00:28:06,838
@@ -1673,7 +1673,7 @@ Você está me pagando de volta.
 
 419
 00:28:18,483 --> 00:28:20,250
-Nós vamos obter algum one-on-one
+Nós vamos obter algum 1-1
 
 420
 00:28:20,285 --> 00:28:22,785
@@ -1697,7 +1697,7 @@ Eu recebi um telefonema do meu advogado.
 
 425
 00:28:52,217 --> 00:28:55,518
-Parece que a contingência sobre o nosso maior acao
+Parece que a contingência sobre o nosso maior ação
 
 426
 00:28:55,554 --> 00:28:58,821
@@ -1985,7 +1985,7 @@ Mas você não tem que mante-lo em segredo.
 
 497
 00:33:42,640 --> 00:33:46,876
-Quando você deixar Jesus entrar em seu coracao,
+Quando você deixar Jesus entrar em seu coração,
 
 498
 00:33:46,911 --> 00:33:49,745
@@ -2173,7 +2173,7 @@ Isso é o que fazemos aqui.
 
 544
 00:36:51,387 --> 00:36:53,687
-Nossa equipe de investigacao interna
+Nossa equipe de investigação interna
 
 545
 00:36:53,723 --> 00:36:55,723
@@ -2201,7 +2201,7 @@ Você entrar; você sai;
 
 551
 00:37:07,169 --> 00:37:09,802
-avaliar a situacao rapidamente; encontrar respostas;
+avaliar a situação rapidamente; encontrar respostas;
 
 552
 00:37:09,838 --> 00:37:13,907
@@ -2217,11 +2217,11 @@ para o caso em que estamos trabalhando agora.
 
 555
 00:37:18,213 --> 00:37:21,482
-É uma acao de classe formando em Flint
+É uma ação de classe formando em Flint
 
 556
 00:37:21,517 --> 00:37:24,818
-sobre a contaminacao da água.
+sobre a contaminação da água.
 
 557
 00:37:24,853 --> 00:37:26,687
@@ -2745,7 +2745,7 @@ Espero que continuem me ver no meu escritório.
 
 687
 00:45:56,231 --> 00:45:59,799
-Eu acho que é importante que manter a nossa programacao regular.
+Eu acho que é importante que manter a nossa programação regular.
 
 688
 00:45:59,834 --> 00:46:03,636
