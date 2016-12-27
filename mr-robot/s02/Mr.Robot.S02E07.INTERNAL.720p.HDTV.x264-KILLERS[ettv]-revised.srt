@@ -32,7 +32,7 @@ Eu poderia destruí-lo em um terminal.
 
 9
 00:00:18,323 --> 00:00:20,356
-Eu lhe disse para nao olhar.
+Eu lhe disse para não olhar.
 
 10
 00:00:20,392 --> 00:00:21,658
@@ -68,7 +68,7 @@ Você vai me dar exatamente o que eu quero em troca.
 
 18
 00:00:36,241 --> 00:00:37,340
-Eu nao posso limpar a filmagem de seguranca
+Eu não posso limpar a filmagem de seguranca
 
 19
 00:00:37,375 --> 00:00:38,441
@@ -80,7 +80,7 @@ Angela Moss.
 
 21
 00:00:40,212 --> 00:00:41,477
-Você nao será capaz de me dar
+Você não será capaz de me dar
 
 22
 00:00:41,513 --> 00:00:42,913
@@ -88,7 +88,7 @@ qualquer coisa que eu quero da vida.
 
 23
 00:00:43,113 --> 00:00:46,413
-Você nao é um homem que eu quero ser casada com mais tempo.
+Você não é um homem que eu quero ser casada com mais tempo.
 
 24
 00:01:31,142 --> 00:01:32,460
@@ -205,7 +205,7 @@ entre duas pessoas.
 
 52
 00:03:06,640 --> 00:03:08,406
-Nao é diferente do que um cliente
+Não é diferente do que um cliente
 
 53
 00:03:08,442 --> 00:03:10,809
@@ -229,7 +229,7 @@ Para mim,
 
 58
 00:03:21,155 --> 00:03:24,489
-Eu nao consigo aprender as regras.
+Eu não consigo aprender as regras.
 
 59
 00:03:28,495 --> 00:03:31,463
@@ -257,7 +257,7 @@ Por que você estava tentando esconde-lo?
 
 65
 00:03:56,723 --> 00:03:59,057
-Você estava agindo como se ele nao estava no porta-malas.
+Você estava agindo como se ele não estava no porta-malas.
 
 66
 00:03:59,093 --> 00:04:00,825
@@ -273,7 +273,7 @@ Pensei que passou por isso.
 
 69
 00:04:06,066 --> 00:04:08,133
-Nao vamos voltar atrás.
+Não vamos voltar atrás.
 
 70
 00:04:10,104 --> 00:04:12,804
@@ -293,7 +293,7 @@ Por que você ainda me importo?
 
 74
 00:04:19,613 --> 00:04:23,581
-Eu nao quero estar em negacao mais.
+Eu não quero estar em negacao mais.
 
 75
 00:04:23,617 --> 00:04:27,619
@@ -353,7 +353,7 @@ Eu te vejo.
 
 89
 00:05:23,110 --> 00:05:25,777
-E nao era um tipo "oops, andar errado" de drop-in.
+E não era um tipo "oops, andar errado" de drop-in.
 
 90
 00:05:25,812 --> 00:05:28,480
@@ -361,7 +361,7 @@ De onde eu estava, parecia que você estava vindo de algum lugar.
 
 91
 00:05:28,515 --> 00:05:31,416
-Agora, este é nada oficial entao nao se preocupe, mas ...
+Agora, este é nada oficial entao não se preocupe, mas ...
 
 92
 00:05:31,452 --> 00:05:32,717
@@ -449,7 +449,7 @@ e depois acabar aqui no E Corp.
 
 113
 00:06:31,645 --> 00:06:33,878
-Ok, nao freak. Ela nada tem.
+Ok, não freak. Ela nada tem.
 
 114
 00:06:33,914 --> 00:06:36,481
@@ -473,7 +473,7 @@ Para que?
 
 119
 00:06:44,158 --> 00:06:47,659
-Apenas para obter uma declaracao, responder a algumas perguntas, nao é grande.
+Apenas para obter uma declaracao, responder a algumas perguntas, não é grande.
 
 120
 00:06:47,694 --> 00:06:49,827
@@ -489,7 +489,7 @@ Seja o que for ...
 
 123
 00:07:06,046 --> 00:07:09,013
-Nao é você.
+Não é você.
 
 124
 00:07:13,053 --> 00:07:14,752
@@ -521,7 +521,7 @@ Nós apenas o dono do FBI.
 
 131
 00:07:51,791 --> 00:07:54,626
-Eu fiz isso, nao foi?
+Eu fiz isso, não foi?
 
 132
 00:07:55,795 --> 00:08:00,532
@@ -581,7 +581,7 @@ A pipoca,
 
 146
 00:08:54,321 --> 00:08:58,623
-E eu nao queria, mas ...
+E eu não queria, mas ...
 
 147
 00:09:02,629 --> 00:09:05,963
@@ -613,7 +613,7 @@ Eu disse aos meus amigos que você está vindo.
 
 154
 00:09:38,398 --> 00:09:40,232
-Você sabe que nao pode acontecer.
+Você sabe que não pode acontecer.
 
 155
 00:09:40,267 --> 00:09:42,500
@@ -645,7 +645,7 @@ Puxe há duas horas.
 
 162
 00:10:10,843 --> 00:10:12,877
-03 de julho de 2015 DATA 11:20:00 nao pode ser encontrado
+03 de julho de 2015 DATA 11:20:00 não pode ser encontrado
 
 163
 00:10:14,534 --> 00:10:16,501
@@ -653,11 +653,11 @@ Na semana passada, em qualquer dia.
 
 164
 00:10:20,951 --> 00:10:22,759
-24 de junho de 2015 DATA 11:20:00 nao pode ser encontrado
+24 de junho de 2015 DATA 11:20:00 não pode ser encontrado
 
 165
 00:10:27,476 --> 00:10:28,839
-17 de junho de 2015 DATA 11:20:00 nao pode ser encontrado
+17 de junho de 2015 DATA 11:20:00 não pode ser encontrado
 
 166
 00:10:30,384 --> 00:10:32,317
@@ -677,7 +677,7 @@ Eu varrer o chao 23 e verifique o computador de Angela Moss.
 
 170
 00:10:40,761 --> 00:10:43,094
-Você nao vai encontrar nada ... Eu tenho certeza que ela apagou todos os vestígios ...
+Você não vai encontrar nada ... Eu tenho certeza que ela apagou todos os vestígios ...
 
 171
 00:10:43,129 --> 00:10:45,029
@@ -709,7 +709,7 @@ Devido à crise de crédito provocada pela Cinco / Nine,
 
 178
 00:11:10,615 --> 00:11:13,324
-muitas empresas privadas nao podem pagar
+muitas empresas privadas não podem pagar
 
 179
 00:11:13,424 --> 00:11:14,761
@@ -757,7 +757,7 @@ de sua carteira ECOIN.
 
 190
 00:11:49,927 --> 00:11:52,027
-Você me deixou preocupado, nao responder às minhas chamadas
+Você me deixou preocupado, não responder às minhas chamadas
 
 191
 00:11:52,062 --> 00:11:53,061
@@ -769,7 +769,7 @@ Eu vou.
 
 193
 00:11:54,097 --> 00:11:57,365
-Você nao era o alvo.
+Você não era o alvo.
 
 194
 00:11:57,401 --> 00:11:58,400
@@ -785,7 +785,7 @@ Eu sei que você já colocou o resto juntos, entao ...
 
 197
 00:12:05,242 --> 00:12:08,209
-nao mais cortinas de fumaca.
+não mais cortinas de fumaca.
 
 198
 00:12:08,245 --> 00:12:11,046
@@ -837,7 +837,7 @@ Mesmo quando as máscaras comecaram a aparecer nos vídeos.
 
 210
 00:12:42,913 --> 00:12:45,213
-Eu nao colocá-lo em primeiro lugar.
+Eu não colocá-lo em primeiro lugar.
 
 211
 00:12:47,284 --> 00:12:49,451
@@ -845,7 +845,7 @@ Talvez eu fiz.
 
 212
 00:12:49,487 --> 00:12:53,121
-Talvez eu nao queria.
+Talvez eu não queria.
 
 213
 00:12:53,156 --> 00:12:55,223
@@ -949,11 +949,11 @@ Você nunca apareceu.
 
 238
 00:16:25,744 --> 00:16:28,645
-Lhe disse o que aconteceria se você nao apareceu.
+Lhe disse o que aconteceria se você não apareceu.
 
 239
 00:16:28,681 --> 00:16:32,148
-Nao-nao-nao-nao-nao, isso nao vai funcionar mais.
+Não-não-não-não-não, isso não vai funcionar mais.
 
 240
 00:16:32,184 --> 00:16:35,652
@@ -1065,7 +1065,7 @@ Eu pensei que eu ia ser o seu salvador.
 
 267
 00:18:22,160 --> 00:18:25,061
-Eu nao lhe disse sobre a minha esposa.
+Eu não lhe disse sobre a minha esposa.
 
 268
 00:18:25,096 --> 00:18:27,531
@@ -1097,7 +1097,7 @@ parecia bom para mim.
 
 275
 00:18:47,218 --> 00:18:50,954
-Eu nao acho que ela nunca quis dizer isso para ir para onde foi.
+Eu não acho que ela nunca quis dizer isso para ir para onde foi.
 
 276
 00:18:50,989 --> 00:18:54,658
@@ -1145,7 +1145,7 @@ o que foi vendido no site.
 
 287
 00:19:18,484 --> 00:19:20,484
-E nós nao iria olhar.
+E nós não iria olhar.
 
 288
 00:19:23,922 --> 00:19:26,155
@@ -1165,11 +1165,11 @@ Eu temia o pior.
 
 292
 00:19:33,699 --> 00:19:35,532
-Mas eu ainda nao olhou.
+Mas eu ainda não olhou.
 
 293
 00:19:36,702 --> 00:19:40,136
-Nao até que você veio junto.
+Não até que você veio junto.
 
 294
 00:19:49,447 --> 00:19:52,148
@@ -1209,7 +1209,7 @@ Você é a minha resposta.
 
 303
 00:20:33,224 --> 00:20:36,192
-Nao é o contrário.
+Não é o contrário.
 
 304
 00:20:39,230 --> 00:20:42,532
@@ -1281,7 +1281,7 @@ para mais do que apenas o tráfego TOR.
 
 321
 00:22:51,396 --> 00:22:53,496
-Fique aqui e nao se mova.
+Fique aqui e não se mova.
 
 322
 00:22:53,531 --> 00:22:55,899
@@ -1305,7 +1305,7 @@ que Googles "tailandeses raparigas à venda."
 
 327
 00:23:05,276 --> 00:23:07,677
-Nao demorou muito para o FBI para pegar
+Não demorou muito para o FBI para pegar
 
 328
 00:23:07,713 --> 00:23:11,014
@@ -1373,7 +1373,7 @@ para aqueles responsáveis.
 
 344
 00:24:01,131 --> 00:24:03,598
-Você nao respondeu minhas chamadas desde o fim de semana.
+Você não respondeu minhas chamadas desde o fim de semana.
 
 345
 00:24:03,634 --> 00:24:06,334
@@ -1421,7 +1421,7 @@ Se soltá-lo ...
 
 356
 00:24:29,092 --> 00:24:30,391
-Eu nao vou discutir isso com você.
+Eu não vou discutir isso com você.
 
 357
 00:24:30,427 --> 00:24:32,627
@@ -1485,15 +1485,15 @@ mas eles me respeitam.
 
 372
 00:25:16,907 --> 00:25:19,774
-Eu nao sei quem é essa pessoa que está na minha frente,
+Eu não sei quem é essa pessoa que está na minha frente,
 
 373
 00:25:19,810 --> 00:25:22,877
-mas eu nao estou concordando com nada disso.
+mas eu não estou concordando com nada disso.
 
 374
 00:25:22,913 --> 00:25:25,413
-Eu nao confio neles.
+Eu não confio neles.
 
 375
 00:25:25,448 --> 00:25:27,716
@@ -1501,7 +1501,7 @@ E para ser honesto?
 
 376
 00:25:27,751 --> 00:25:29,618
-Eu nao confio em você.
+Eu não confio em você.
 
 377
 00:25:29,653 --> 00:25:31,720
@@ -1513,7 +1513,7 @@ assinar para o que você está vendendo?
 
 379
 00:25:33,757 --> 00:25:35,690
-Nao é apenas o meu voto,
+Não é apenas o meu voto,
 
 380
 00:25:35,726 --> 00:25:37,926
@@ -1541,7 +1541,7 @@ O que é exatamente neste para você?
 
 386
 00:25:57,147 --> 00:25:59,981
-Você nao está recebendo o dinheiro. Eu sou.
+Você não está recebendo o dinheiro. Eu sou.
 
 387
 00:26:00,017 --> 00:26:01,916
@@ -1557,7 +1557,7 @@ Por que você veio aqui?
 
 390
 00:26:05,789 --> 00:26:09,524
-Porque você certamente nao dao a mínima para a minha opiniao.
+Porque você certamente não dao a mínima para a minha opiniao.
 
 391
 00:26:11,594 --> 00:26:14,562
@@ -1569,11 +1569,11 @@ Agora essa coisa Ray ficou todo mundo falando.
 
 393
 00:26:39,790 --> 00:26:44,358
-Eu nao tinha nada a ver com isso.
+Eu não tinha nada a ver com isso.
 
 394
 00:26:44,394 --> 00:26:47,662
-Mentir nao é seu amigo agora, cuz.
+Mentir não é seu amigo agora, cuz.
 
 395
 00:26:47,698 --> 00:26:50,631
@@ -1617,7 +1617,7 @@ O que é isso?
 
 405
 00:27:23,566 --> 00:27:25,200
-nao ouvi-lo.
+não ouvi-lo.
 
 406
 00:27:25,235 --> 00:27:27,068
@@ -1653,11 +1653,11 @@ Eu tinha 800 Bitcoins na minha carteira.
 
 414
 00:27:57,659 --> 00:27:59,994
-Agora, de repente, eu nao tenho acesso.
+Agora, de repente, eu não tenho acesso.
 
 415
 00:28:00,507 --> 00:28:03,709
-nao pode sequer fazer causa novos vendas do site para baixo.
+não pode sequer fazer causa novos vendas do site para baixo.
 
 416
 00:28:05,272 --> 00:28:06,838
@@ -1709,7 +1709,7 @@ Importa-se de explicar?
 
 428
 00:29:01,459 --> 00:29:04,294
-É o que você queria, nao é?
+É o que você queria, não é?
 
 429
 00:29:04,329 --> 00:29:05,662
@@ -1721,7 +1721,7 @@ exactamente o oposto.
 
 431
 00:29:07,732 --> 00:29:10,366
-Você só nao queria perguntar para ele.
+Você só não queria perguntar para ele.
 
 432
 00:29:12,136 --> 00:29:14,370
@@ -1733,7 +1733,7 @@ Você vai aceitar a oferta, entao?
 
 434
 00:29:21,346 --> 00:29:24,514
-Bem, isso nao é para mim dizer,
+Bem, isso não é para mim dizer,
 
 435
 00:29:24,549 --> 00:29:27,217
@@ -1773,7 +1773,7 @@ mal, agenda secreta?
 
 444
 00:29:53,245 --> 00:29:55,745
-nao sao todos nós proteger o nosso
+não sao todos nós proteger o nosso
 
 445
 00:29:55,780 --> 00:29:58,047
@@ -1813,7 +1813,7 @@ Há uma posicao de gerente disponíveis.
 
 454
 00:30:22,874 --> 00:30:24,741
-E mesmo que eu possa nao ter a experiencia,
+E mesmo que eu possa não ter a experiencia,
 
 455
 00:30:24,776 --> 00:30:26,942
@@ -1865,11 +1865,11 @@ No.
 
 467
 00:31:12,757 --> 00:31:13,989
-- Eu pensei ... - Nao, nao ...
+- Eu pensei ... - Não, não ...
 
 468
 00:31:14,025 --> 00:31:15,458
-Nao acredite no que você le online.
+Não acredite no que você le online.
 
 469
 00:31:15,493 --> 00:31:20,292
@@ -1957,7 +1957,7 @@ Eu vi você falando com ele.
 
 490
 00:33:20,552 --> 00:33:23,753
-Nao em voz alta, mas eu poderia dizer.
+Não em voz alta, mas eu poderia dizer.
 
 491
 00:33:23,788 --> 00:33:26,889
@@ -1965,7 +1965,7 @@ Está escrito em seu rosto.
 
 492
 00:33:26,925 --> 00:33:29,358
-Nao é louco, Elliot,
+Não é louco, Elliot,
 
 493
 00:33:29,393 --> 00:33:33,262
@@ -1981,7 +1981,7 @@ Sim.
 
 496
 00:33:37,836 --> 00:33:40,970
-Mas você nao tem que mante-lo em segredo.
+Mas você não tem que mante-lo em segredo.
 
 497
 00:33:42,640 --> 00:33:46,876
@@ -2001,7 +2001,7 @@ Vou dar-lhe algum tempo sozinho.
 
 501
 00:34:22,389 --> 00:34:29,122
-Você nao está sozinho todos nós somos diferentes, somos todos iguais
+Você não está sozinho todos nós somos diferentes, somos todos iguais
 
 502
 00:34:35,827 --> 00:34:38,193
@@ -2025,7 +2025,7 @@ Com o Mal Corp.
 
 507
 00:34:50,628 --> 00:34:52,728
-Mas eu nao sei o que fazer.
+Mas eu não sei o que fazer.
 
 508
 00:35:08,124 --> 00:35:11,727
@@ -2061,7 +2061,7 @@ e aí você...
 
 516
 00:35:33,083 --> 00:35:34,383
-eu nao...
+eu não...
 
 517
 00:35:34,418 --> 00:35:38,487
@@ -2069,7 +2069,7 @@ levou-nos a cortar mal Corp.
 
 518
 00:35:38,522 --> 00:35:41,222
-Eu nao forcá-lo a fazer nada disso.
+Eu não forcá-lo a fazer nada disso.
 
 519
 00:35:41,258 --> 00:35:42,858
@@ -2109,7 +2109,7 @@ Porque você é um líder.
 
 528
 00:36:15,191 --> 00:36:19,360
-Eu nao quero ser um líder.
+Eu não quero ser um líder.
 
 529
 00:36:19,396 --> 00:36:21,530
@@ -2133,7 +2133,7 @@ GESTaO DE RISCOS
 
 534
 00:36:31,300 --> 00:36:33,033
-E nao ao contrário de seu chao,
+E não ao contrário de seu chao,
 
 535
 00:36:33,068 --> 00:36:34,835
@@ -2269,7 +2269,7 @@ quando ele era um vendedor.
 
 568
 00:37:49,445 --> 00:37:52,413
-Bem, por que você nao vá em frente e obter-se até a velocidade?
+Bem, por que você não vá em frente e obter-se até a velocidade?
 
 569
 00:37:52,448 --> 00:37:55,081
@@ -2297,7 +2297,7 @@ isso é uma reuniao de nível de diretoria.
 
 575
 00:38:15,438 --> 00:38:17,137
-Nós realmente nao convidar os gestores para isso.
+Nós realmente não convidar os gestores para isso.
 
 576
 00:38:17,172 --> 00:38:18,639
@@ -2337,7 +2337,7 @@ bem esta manhã com esses manifestantes aqui fora?
 
 585
 00:38:39,027 --> 00:38:42,796
-É uma loucura, nao é?
+É uma loucura, não é?
 
 586
 00:38:52,341 --> 00:38:56,009
@@ -2405,7 +2405,7 @@ Ele poderia dizer que é uma coisa boa,
 
 602
 00:39:44,159 --> 00:39:45,392
-mas nao é sempre.
+mas não é sempre.
 
 603
 00:39:45,428 --> 00:39:47,360
@@ -2493,7 +2493,7 @@ Devemos ir em frente e comecar?
 
 624
 00:41:37,430 --> 00:41:39,163
-Ele nao se parece com vai de Susan faze-lo.
+Ele não se parece com vai de Susan faze-lo.
 
 625
 00:41:39,198 --> 00:41:40,498
@@ -2517,7 +2517,7 @@ sao as pequenas empresas de empréstimo independentes que estamos atendendo.
 
 630
 00:41:49,942 --> 00:41:51,141
-Estou surpreso que eles nao estao nos processando
+Estou surpreso que eles não estao nos processando
 
 631
 00:41:51,177 --> 00:41:53,290
@@ -2537,7 +2537,7 @@ danos contratual sobre o tempo de atividade sao mínimas.
 
 635
 00:41:58,170 --> 00:41:59,344
-Eu nao estou nem preocupado com isso.
+Eu não estou nem preocupado com isso.
 
 636
 00:41:59,544 --> 00:42:00,326
@@ -2593,7 +2593,7 @@ Você sabe o que?
 
 649
 00:42:50,712 --> 00:42:53,613
-Nao há muito que podemos fazer aqui hoje.
+Não há muito que podemos fazer aqui hoje.
 
 650
 00:42:53,648 --> 00:42:56,749
@@ -2605,7 +2605,7 @@ Vamos adiar.
 
 652
 00:42:58,219 --> 00:42:59,619
-Nao acabei de dizer que dois minutos atrás?
+Não acabei de dizer que dois minutos atrás?
 
 653
 00:42:59,654 --> 00:43:01,220
@@ -2633,7 +2633,7 @@ Você sugado quem é pau para ser transferido aqui.
 
 659
 00:43:28,083 --> 00:43:30,650
-E, francamente, eu realmente nao me importo.
+E, francamente, eu realmente não me importo.
 
 660
 00:43:32,654 --> 00:43:35,922
@@ -2661,15 +2661,15 @@ Aproveite o coquetel de camarâo.
 
 666
 00:44:01,215 --> 00:44:03,883
-Esta é uma boa notícia, você nao acha?
+Esta é uma boa notícia, você não acha?
 
 667
 00:44:12,827 --> 00:44:15,394
-Mas você nao está feliz com isso.
+Mas você não está feliz com isso.
 
 668
 00:44:17,999 --> 00:44:21,167
-Nao tenho certeza.
+Não tenho certeza.
 
 669
 00:44:21,202 --> 00:44:24,170
@@ -2709,7 +2709,7 @@ Mas você estava certo.
 
 678
 00:44:52,767 --> 00:44:56,769
-Você nao pode destruir uma parte de si mesmo.
+Você não pode destruir uma parte de si mesmo.
 
 679
 00:45:03,044 --> 00:45:06,612
@@ -2729,7 +2729,7 @@ Elliot,
 
 683
 00:45:26,267 --> 00:45:30,402
-você sabe que nao foram se hospedar com sua mae, certo?
+você sabe que não foram se hospedar com sua mae, certo?
 
 684
 00:45:31,806 --> 00:45:33,005
@@ -2749,7 +2749,7 @@ Eu acho que é importante que manter a nossa programacao regular.
 
 688
 00:45:59,834 --> 00:46:03,636
-Você nao concorda?
+Você não concorda?
 
 689
 00:46:03,671 --> 00:46:05,071
@@ -2777,7 +2777,7 @@ Depois de tudo,
 
 695
 00:46:44,854 --> 00:46:48,923
-nao é por isso que nós nos cercamos com tantas telas?
+não é por isso que nós nos cercamos com tantas telas?
 
 696
 00:46:50,559 --> 00:46:53,160
@@ -2789,7 +2789,7 @@ Assim, podemos evitar um ao outro?
 
 698
 00:46:54,931 --> 00:46:56,697
-Eu nao acho que estou pronto para
+Eu não acho que estou pronto para
 
 699
 00:46:56,733 --> 00:46:58,565
@@ -2801,7 +2801,7 @@ Assim, podemos evitar a verdade?
 
 701
 00:47:03,439 --> 00:47:07,507
-Sinto muito por nao ter te contado tudo.
+Sinto muito por não ter te contado tudo.
 
 702
 00:47:07,543 --> 00:47:11,511
@@ -2809,7 +2809,7 @@ Mas eu precisava disso, a fim de obter melhor.
 
 703
 00:47:14,884 --> 00:47:17,551
-Por favor, nao fique brava por muito tempo.
+Por favor, não fique brava por muito tempo.
 
 704
 00:47:17,586 --> 00:47:20,387
@@ -2825,11 +2825,11 @@ Eu sei o que você está pensando,
 
 707
 00:47:43,445 --> 00:47:45,579
-e nao.
+e não.
 
 708
 00:47:45,614 --> 00:47:47,581
-Eu nao menti para você.
+Eu não menti para você.
 
 709
 00:47:47,616 --> 00:47:49,984
@@ -2859,7 +2859,7 @@ Vamos sacudir sobre ela.
 00:48:02,135 --> 00:48:05,096
 CATARINA SUBSTITLES
 5,438 --> 00:38:17,137
-Nós realmente nao convidar os gestores para isso.
+Nós realmente não convidar os gestores para isso.
 
 576
 00:38:17,172 --> 00:38:18,639
