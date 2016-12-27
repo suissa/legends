@@ -1269,7 +1269,7 @@ tome cuidado.
 
 318
 00:22:42,854 --> 00:22:45,021
-Quando eu concluída a migracao,
+Quando eu concluí a migração,
 
 319
 00:22:45,057 --> 00:22:47,724
