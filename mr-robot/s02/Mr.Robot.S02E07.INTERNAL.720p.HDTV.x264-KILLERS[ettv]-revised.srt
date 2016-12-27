@@ -1321,7 +1321,7 @@ Portanto, agora temos a oportunidade de comecar de novo.
 
 331
 00:23:18,890 --> 00:23:22,092
-Nossa handshake negociado nos como parceiros.
+Nosso aperto de mão negociou-nos como parceiros.
 
 332
 00:23:25,146 --> 00:23:27,064
