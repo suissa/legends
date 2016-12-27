@@ -1377,7 +1377,7 @@ Você não respondeu minhas chamadas desde o fim de semana.
 
 345
 00:24:03,634 --> 00:24:06,334
-Como você pode ver, é ocupado.
+Como você pode ver, estou ocupado.
 
 346
 00:24:06,369 --> 00:24:08,302
