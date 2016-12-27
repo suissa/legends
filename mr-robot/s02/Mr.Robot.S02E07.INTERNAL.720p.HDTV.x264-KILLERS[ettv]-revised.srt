@@ -197,7 +197,7 @@ Tudo isso é dito com
 
 50
 00:03:03,204 --> 00:03:04,769
-um simples ato de um aperto de mao
+um simples ato de um aperto de mão
 
 51
 00:03:04,805 --> 00:03:06,604
@@ -213,7 +213,7 @@ de ligacao com um servidor.
 
 54
 00:03:10,845 --> 00:03:13,312
-Tudo depende de que primeiro aperto de mao
+Tudo depende de que primeiro aperto de mão
 
 55
 00:03:13,347 --> 00:03:15,314
