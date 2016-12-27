@@ -1993,7 +1993,7 @@ Ele sempre vai ouvir.
 
 499
 00:33:54,486 --> 00:33:57,086
-Te dizer o que,
+Te dizer o seguinte,
 
 500
 00:33:57,121 --> 00:34:00,122
@@ -2013,7 +2013,7 @@ Eu estive perdido nas últimas semanas.
 
 504
 00:34:43,140 --> 00:34:44,731
-Desde a coisa toda Ray.
+Desde a coisa toda do Ray.
 
 505
 00:34:45,856 --> 00:34:48,290
@@ -2021,7 +2021,7 @@ Eu preciso terminar o que comecei.
 
 506
 00:34:48,326 --> 00:34:50,592
-Com o Evil Corp.
+Com a Evil Corp.
 
 507
 00:34:50,628 --> 00:34:52,728
