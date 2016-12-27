@@ -124,7 +124,7 @@ Eu já ouvi muitas coisas boas.
 
 32
 00:01:46,761 --> 00:01:49,061
-- E seu marido, Scott. - Como estao as coisas?
+- E seu marido, Scott. - Como estão as coisas?
 
 33
 00:01:49,096 --> 00:01:51,230
@@ -285,7 +285,7 @@ se você me dizer a verdade?
 
 72
 00:04:15,276 --> 00:04:16,474
-Por que você quer saber é tao ruim?
+Por que você quer saber é tão ruim?
 
 73
 00:04:16,510 --> 00:04:19,577
@@ -361,7 +361,7 @@ De onde eu estava, parecia que você estava vindo de algum lugar.
 
 91
 00:05:28,515 --> 00:05:31,416
-Agora, este é nada oficial entao não se preocupe, mas ...
+Agora, este é nada oficial então não se preocupe, mas ...
 
 92
 00:05:31,452 --> 00:05:32,717
@@ -713,7 +713,7 @@ muitas empresas privadas não podem pagar
 
 179
 00:11:13,424 --> 00:11:14,761
-servicos de gestao de resíduos,
+servicos de gestão de resíduos,
 
 180
 00:11:14,943 --> 00:11:16,555
@@ -781,7 +781,7 @@ Pare.
 
 196
 00:12:01,104 --> 00:12:05,206
-Eu sei que você já colocou o resto juntos, entao ...
+Eu sei que você já colocou o resto juntos, então ...
 
 197
 00:12:05,242 --> 00:12:08,209
@@ -821,7 +821,7 @@ você e Elliot sempre me fez assistir a esse filme de terror de merda.
 
 206
 00:12:31,735 --> 00:12:33,769
-Ele foi tao mau.
+Ele foi tão mau.
 
 207
 00:12:33,804 --> 00:12:35,403
@@ -929,7 +929,7 @@ Agora ele precisa de mim.
 
 233
 00:15:10,302 --> 00:15:13,470
-Entao, isso faz-nos seguros.
+Então, isso faz-nos seguros.
 
 234
 00:15:53,779 --> 00:15:56,079
@@ -1013,7 +1013,7 @@ Estamos recebendo mais tráfego do que nunca.
 
 254
 00:17:20,899 --> 00:17:23,900
-Diz a nossa ingestao de Bitcoin duplicou desde que fui para cima.
+Diz a nossa ingestão de Bitcoin duplicou desde que fui para cima.
 
 255
 00:17:26,372 --> 00:17:28,938
@@ -1069,11 +1069,11 @@ Eu não lhe disse sobre a minha esposa.
 
 268
 00:18:25,096 --> 00:18:27,531
-Ela era tao inteligente.
+Ela era tão inteligente.
 
 269
 00:18:29,334 --> 00:18:32,235
-Maneira mais inteligente do que eu.
+Muito mais inteligente do que eu.
 
 270
 00:18:32,270 --> 00:18:34,237
@@ -1089,7 +1089,7 @@ Isso é o que ela fazia para viver.
 
 273
 00:18:38,844 --> 00:18:42,245
-Entao, quando ela teve a ideia de fazer um site,
+Então, quando ela teve a ideia de fazer um site,
 
 274
 00:18:42,280 --> 00:18:45,649
@@ -1105,7 +1105,7 @@ Ela estava querendo fazer algum risco extra.
 
 277
 00:18:54,693 --> 00:18:56,827
-Mas a coisa cresceu tao rápido,
+Mas a coisa cresceu tão rápido,
 
 278
 00:18:56,862 --> 00:19:00,096
@@ -1129,7 +1129,7 @@ faz você questionar o certo eo errado.
 
 283
 00:19:09,741 --> 00:19:10,941
-Entao você sabe,
+Então você sabe,
 
 284
 00:19:10,976 --> 00:19:12,843
@@ -1213,7 +1213,7 @@ Não é o contrário.
 
 304
 00:20:39,230 --> 00:20:42,532
-Entao, obrigado.
+Então, obrigado.
 
 305
 00:21:00,318 --> 00:21:02,586
@@ -1241,7 +1241,7 @@ Eu acho que nós já cercado por agora.
 
 311
 00:21:34,285 --> 00:21:37,520
-É melhor sair antes que eles cheguem até aqui, entao.
+É melhor sair antes que eles cheguem até aqui, então.
 
 312
 00:21:37,555 --> 00:21:40,690
@@ -1385,7 +1385,7 @@ Desde que esse resgate fiasco de ontem,
 
 347
 00:24:08,338 --> 00:24:10,471
-estes kits estao voando das prateleiras.
+estes kits estão voando das prateleiras.
 
 348
 00:24:10,507 --> 00:24:12,974
@@ -1393,7 +1393,7 @@ O, uh, fim da civilizacao está próximo,
 
 349
 00:24:13,010 --> 00:24:15,176
-entao isso vai ter que esperar.
+então isso vai ter que esperar.
 
 350
 00:24:15,211 --> 00:24:17,412
@@ -1405,7 +1405,7 @@ Fique fora disso.
 
 352
 00:24:21,418 --> 00:24:22,551
-Os advogados estao lidando com isso.
+Os advogados estão lidando com isso.
 
 353
 00:24:22,586 --> 00:24:24,352
@@ -1453,7 +1453,7 @@ Largue a contingência. Você vai ter o seu dinheiro.
 
 364
 00:24:50,747 --> 00:24:53,314
-As inspeccões estao lá por um motivo.
+As inspeccões estão lá por um motivo.
 
 365
 00:24:53,349 --> 00:24:55,817
@@ -1469,7 +1469,7 @@ Vou me certificar as inspeccões avancar internamente.
 
 368
 00:25:01,058 --> 00:25:03,825
-É assim que eles estao suckering você?
+É assim que eles estão suckering você?
 
 369
 00:25:03,860 --> 00:25:05,760
@@ -1549,7 +1549,7 @@ Você sabe disso, certo?
 
 388
 00:26:01,952 --> 00:26:03,785
-Entao, eu vou pedir-lhe mais uma vez.
+Então, eu vou pedir-lhe mais uma vez.
 
 389
 00:26:03,820 --> 00:26:05,754
@@ -1729,7 +1729,7 @@ Mas é o que você queria.
 
 433
 00:29:16,874 --> 00:29:19,075
-Você vai aceitar a oferta, entao?
+Você vai aceitar a oferta, então?
 
 434
 00:29:21,346 --> 00:29:24,514
@@ -1757,7 +1757,7 @@ lidar com a despesa jurídica.
 
 440
 00:29:36,394 --> 00:29:38,861
-Posso perguntar por que foi tao importante para você
+Posso perguntar por que foi tão importante para você
 
 441
 00:29:38,896 --> 00:29:41,731
@@ -1805,7 +1805,7 @@ Eu quero a minha posicao mudou
 
 452
 00:30:18,970 --> 00:30:20,836
-para o Departamento de Gestao de Risco.
+para o Departamento de Gestão de Risco.
 
 453
 00:30:20,872 --> 00:30:22,838
@@ -2129,7 +2129,7 @@ RISCO À FRENTE
 
 533
 00:36:29,691 --> 00:36:30,436
-GESTaO DE RISCOS
+GESTãO DE RISCOS
 
 534
 00:36:31,300 --> 00:36:33,033
@@ -2145,7 +2145,7 @@ Pessoas nesta bullpen, estes são o seu
 
 537
 00:36:36,171 --> 00:36:37,504
-coordenadores de gestao de risco,
+coordenadores de gestão de risco,
 
 538
 00:36:37,540 --> 00:36:38,972
@@ -2177,7 +2177,7 @@ Nossa equipe de investigacao interna
 
 545
 00:36:53,723 --> 00:36:55,723
-fazer recomendacões para a gestao
+fazer recomendacões para a gestão
 
 546
 00:36:55,758 --> 00:36:57,658
@@ -2517,7 +2517,7 @@ são as pequenas empresas de empréstimo independentes que estamos atendendo.
 
 630
 00:41:49,942 --> 00:41:51,141
-Estou surpreso que eles não estao nos processando
+Estou surpreso que eles não estão nos processando
 
 631
 00:41:51,177 --> 00:41:53,290
@@ -2585,7 +2585,7 @@ Tudo o que precisa é o acesso aos arquivos
 
 647
 00:42:29,442 --> 00:42:31,943
-e entao eu poderia comecar a trabalhar nisso imediatamente.
+e então eu poderia comecar a trabalhar nisso imediatamente.
 
 648
 00:42:48,643 --> 00:42:50,677
