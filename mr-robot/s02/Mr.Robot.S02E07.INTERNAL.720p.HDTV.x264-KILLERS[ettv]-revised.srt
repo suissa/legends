@@ -60,7 +60,7 @@ Você quer me convencer a classe
 
 16
 00:00:32,171 --> 00:00:33,837
-para remover a contingencia.
+para remover a contingência.
 
 17
 00:00:33,872 --> 00:00:36,206
@@ -1413,7 +1413,7 @@ E Corp vai resolver.
 
 354
 00:24:24,387 --> 00:24:27,789
-Mas há uma contingencia com as inspeccões independentes.
+Mas há uma contingência com as inspeccões independentes.
 
 355
 00:24:27,824 --> 00:24:29,057
@@ -1449,7 +1449,7 @@ para ver este caso através?
 
 363
 00:24:48,078 --> 00:24:50,712
-Largue a contingencia. Você vai ter o seu dinheiro.
+Largue a contingência. Você vai ter o seu dinheiro.
 
 364
 00:24:50,747 --> 00:24:53,314
@@ -1697,7 +1697,7 @@ Eu recebi um telefonema do meu advogado.
 
 425
 00:28:52,217 --> 00:28:55,518
-Parece que a contingencia sobre o nosso maior acao
+Parece que a contingência sobre o nosso maior acao
 
 426
 00:28:55,554 --> 00:28:58,821
@@ -1761,7 +1761,7 @@ Posso perguntar por que foi tao importante para você
 
 441
 00:29:38,896 --> 00:29:41,731
-para largar essa contingencia?
+para largar essa contingência?
 
 442
 00:29:46,705 --> 00:29:48,705
